@@ -57,4 +57,4 @@ fi
 ### Git auto completion
 You can enable git autocompletion for things like branch names by sourcing the `git-completion.bash` script in `.bashrc`.
 
-The sheel script can be found [here](https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)
+The shell script can be found [here](https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)
