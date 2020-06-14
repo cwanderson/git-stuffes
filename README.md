@@ -29,6 +29,7 @@ Note: Here be dragons. Most opinions point towards rebasing master as being a ve
 ## Rewrite history
 Youtube tutorials that I have found useful:
 * [Rewriting Git history - Amend reword, delete, reorder, squash and split](https://www.youtube.com/watch?v=ElRzTuYln0M)
+* [Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits](https://www.youtube.com/watch?v=FdZecVxzJbk)
 
 Websites/Articles:
 * [Techniques for rewriting Git history](https://www.themoderncoder.com/rewriting-git-history/)
