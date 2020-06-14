@@ -1,10 +1,7 @@
 # Git Stuffes
-
 A place to practice git commands so that I can keep my git skills sharp.
 
-
 # Resources
-
 ## Git Basics
 
 YouTube tutorials that I have found useful:
@@ -13,8 +10,6 @@ YouTube tutorials that I have found useful:
 * [Introduction to Git: Remotes](https://www.youtube.com/watch?v=Gg4bLk8cGNo)
 
 Note: The creator of the above three tutorials has yet to create the fourth in the series about rebasing and cherry picking.
-
-
 
 ## Rebasing
 YouTube tutorials that I have found useful:
