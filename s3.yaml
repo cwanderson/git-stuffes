@@ -1,0 +1,8 @@
+config:
+  host: 192.168.4.1
+  port: 8080
+  networks:
+  - red
+  - blue
+  - green
+  - purple
