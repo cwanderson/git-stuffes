@@ -66,3 +66,6 @@ fi
 You can enable git autocompletion for things like branch names by sourcing the `git-completion.bash` script in `.bashrc`.
 
 The shell script can be found [here](https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)
+
+### Diff and Merge Tools
+* [Git Tutorial: Diff and Merge Tools](https://www.youtube.com/watch?v=iCGrKFH2oeo)
